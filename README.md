@@ -28,7 +28,17 @@
 * 新增UUID方式，通过回调函数加载shellcode（c++）
 * 新增BASE64编码+UUID方式，通过回调函数加载shellcode（c++）
 
+2022-02-21
 
+* 新增[IPV6方式](https://github.com/midisec/BypassAnti-Virus/tree/main/callback/v0.3)，通过回调函数加载shellcode（c++）
+* 新增[MAC方式](https://github.com/midisec/BypassAnti-Virus/tree/main/callback/v0.4)，通过回调函数加载shellcode（c++）
+
+2022-03-07
+* 新增[IPV4方式](https://github.com/midisec/BypassAnti-Virus/tree/main/callback/v0.5)，通过回调函数加载shellcode（c++）
+
+2022-03-08
+
+* 新增13种[可利用的回调函数](https://github.com/midisec/BypassAnti-Virus/tree/main/callback#%E5%8F%AF%E5%88%A9%E7%94%A8%E7%9A%84%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0)加载shellcode（c++）
 
 
 
